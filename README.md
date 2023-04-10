@@ -22,7 +22,7 @@ git clone https://github.com/NibiruChain/cw-nibiru
 ## gantikan nama wallet dengan nama key wallet anda jika nama key costum
 ```
 nibid tx wasm store $HOME/cw-nibiru/artifacts-cw-plus/cw20_base.wasm --from wallet --gas-adjustment 1.5 --gas auto --fees 90000unibi  -y
-
+```
 ## output
 ```
 code: 0
